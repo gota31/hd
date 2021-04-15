@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: 4K",ANIMAL PLANET 4K
-http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/58401
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="CANAIS: FILMES E SERIES",AXN FULLHD
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132140
 
 
