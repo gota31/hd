@@ -1,6 +1,200 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS: 4K",FOX SPORTS 2 4K
-http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/58415
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| 0 HD
+http://rv.flysat.live:80/307200113510/307200113510/79348
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| #VAMOS HD
+http://rv.flysat.live:80/307200113510/307200113510/79342
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| AMC HD
+http://rv.flysat.live:80/307200113510/307200113510/79326
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| AXN
+http://rv.flysat.live:80/307200113510/307200113510/79325
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| AXN HD
+http://rv.flysat.live:80/307200113510/307200113510/79324
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| AXN WHITE HD
+http://rv.flysat.live:80/307200113510/307200113510/79323
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CALLE 13 HD
+http://rv.flysat.live:80/307200113510/307200113510/79322
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| COMEDY CENTRAL HD
+http://rv.flysat.live:80/307200113510/307200113510/79321
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| COSMO HD
+http://rv.flysat.live:80/307200113510/307200113510/79320
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| FOX HD
+http://rv.flysat.live:80/307200113510/307200113510/79319
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| FOX LIFE HD
+http://rv.flysat.live:80/307200113510/307200113510/79318
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| HOLLYWOOD HD
+http://rv.flysat.live:80/307200113510/307200113510/79317
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| PARAMOUNT
+http://rv.flysat.live:80/307200113510/307200113510/79316
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| SUNDANCE TV
+http://rv.flysat.live:80/307200113510/307200113510/79315
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| SYFY HD
+http://rv.flysat.live:80/307200113510/307200113510/79314
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| TCM HD
+http://rv.flysat.live:80/307200113510/307200113510/79313
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| TNT HD
+http://rv.flysat.live:80/307200113510/307200113510/79312
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CLASSICA
+http://rv.flysat.live:80/307200113510/307200113510/79311
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.LCAMPEONES
+http://rv.flysat.live:80/307200113510/307200113510/79309
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| LALIGA TV BAR
+http://rv.flysat.live:80/307200113510/307200113510/79308
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| LALIGA TV BAR 1
+http://rv.flysat.live:80/307200113510/307200113510/79307
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| BEIN LALIGA HD
+http://rv.flysat.live:80/307200113510/307200113510/79306
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| BEIN LALIGA1 HD
+http://rv.flysat.live:80/307200113510/307200113510/79305
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| EUROSPORT1 HD
+http://rv.flysat.live:80/307200113510/307200113510/79304
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| EUROSPORT 1
+http://rv.flysat.live:80/307200113510/307200113510/79303
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| EUROSPORT 2
+http://rv.flysat.live:80/307200113510/307200113510/79302
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| GOL
+http://rv.flysat.live:80/307200113510/307200113510/79301
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| BAR TV
+http://rv.flysat.live:80/307200113510/307200113510/79300
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| TOROS HD
+http://rv.flysat.live:80/307200113510/307200113510/79298
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.FORMULA1 HD
+http://rv.flysat.live:80/307200113510/307200113510/79297
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. FORMULA1 HD
+http://rv.flysat.live:80/307200113510/307200113510/79296
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.GOLF HD
+http://rv.flysat.live:80/307200113510/307200113510/79295
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://rv.flysat.live:80/307200113510/307200113510/79294
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| DAZN 1 HD
+http://rv.flysat.live:80/307200113510/307200113510/79293
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| DAZN 2 HD
+http://rv.flysat.live:80/307200113510/307200113510/79292
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://rv.flysat.live:80/307200113510/307200113510/79291
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://rv.flysat.live:80/307200113510/307200113510/79290
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://rv.flysat.live:80/307200113510/307200113510/79289
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.ACCION HD
+http://rv.flysat.live:80/307200113510/307200113510/79287
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. CINE ESPANOL
+http://rv.flysat.live:80/307200113510/307200113510/79286
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. COMEDIA HD
+http://rv.flysat.live:80/307200113510/307200113510/79285
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.DRAMA HD
+http://rv.flysat.live:80/307200113510/307200113510/79284
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.ESTRENOS HD
+http://rv.flysat.live:80/307200113510/307200113510/79283
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.CINEDOC&ROLL
+http://rv.flysat.live:80/307200113510/307200113510/79282
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.CINEDOC&ROLL HD
+http://rv.flysat.live:80/307200113510/307200113510/79281
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.SERIES HD
+http://rv.flysat.live:80/307200113510/307200113510/79280
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.SERIESMANIA HD
+http://rv.flysat.live:80/307200113510/307200113510/79279
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.DEPORTES1 HD
+http://rv.flysat.live:80/307200113510/307200113510/79277
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M. DEPORTES HD
+http://rv.flysat.live:80/307200113510/307200113510/79276
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| MEZZO
+http://rv.flysat.live:80/307200113510/307200113510/79274
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| MEZZO LIVE HD
+http://rv.flysat.live:80/307200113510/307200113510/79273
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| M.WIMBLEDONHD
+http://rv.flysat.live:80/307200113510/307200113510/79272
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| BLAZE
+http://rv.flysat.live:80/307200113510/307200113510/79265
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CANAL COCINA
+http://rv.flysat.live:80/307200113510/307200113510/79264
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CANAL DECASA
+http://rv.flysat.live:80/307200113510/307200113510/79263
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CAZAYPESCA HD
+http://rv.flysat.live:80/307200113510/307200113510/79262
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CRIMEN+INVES
+http://rv.flysat.live:80/307200113510/307200113510/79261
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| DISCOVERY
+http://rv.flysat.live:80/307200113510/307200113510/79260
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| HISTORIA
+http://rv.flysat.live:80/307200113510/307200113510/79259
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| IBERALIA TV
+http://rv.flysat.live:80/307200113510/307200113510/79258
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| NAT GEO HD
+http://rv.flysat.live:80/307200113510/307200113510/79257
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| NAT GEO WILD
+http://rv.flysat.live:80/307200113510/307200113510/79256
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| NAT GEO WILD HD
+http://rv.flysat.live:80/307200113510/307200113510/79255
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| CANAL ODISEA
+http://rv.flysat.live:80/307200113510/307200113510/79254
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| VIAJAR HD
+http://rv.flysat.live:80/307200113510/307200113510/79253
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", |SP| VH1
+http://rv.flysat.live:80/307200113510/307200113510/79252
